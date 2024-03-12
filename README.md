@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 -->
 # ¡Hola! 👋 ¡Bienvenido a mi perfil de GitHub!
 
-
+<!--
 ## Lo que mas subo a GitHub (Mayormente proyectos de aprendizaje o personales 
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername)](https://github.com/anuraghazra/github-readme-stats) --->
 
 ## Tecnologías
 
