@@ -25,9 +25,3 @@ Here are some ideas to get you started:
 
 ## En aprendizaje:
 - Laravel
-
-## Contacto
-
-- [LinkedIn](https://www.linkedin.com/)
-- [Twitter](https://twitter.com/)
-- [Sitio web](https://www.bilsa.com)
