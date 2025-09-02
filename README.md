@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ## Tecnologías
 
-[![Techs](https://github-readme-stats.vercel.app/api/top-langs/?username=bombonzinha)](https://github.com/anuraghazra/github-readme-stats)
+[![Techs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeshoa)](https://github.com/anuraghazra/github-readme-stats)
 
 ## En aprendizaje:
 - Laravel
